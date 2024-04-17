@@ -1,0 +1,87 @@
+- People (including parts):
+    - person
+- Cars:
+    - ambulance
+    - bus (vehicle)
+    - car (automobile)
+    - cab (taxi)
+    - cabin car
+    - camper (vehicle)
+    - convertible (automobile)
+    - garbage truck
+    - golfcart
+    - jeep
+    - minivan
+    - motor scooter
+    - motor vehicle
+    - motorcycle
+    - race car
+    - school bus
+    - snowmobile
+    - dirt bike
+    - tractor (farm equipment)
+    - trailer truck
+    - train (railroad vehicle)
+    - truck
+    - pickup truck
+- Dogs:
+    - dalmatian
+    - dog
+    - pug-dog
+    - puppy
+    - shepherd dog
+    - bulldog
+- Cats:
+    - cat
+    - kitten
+- Birds:
+    - dove
+    - dragonfly
+    - duck
+    - duckling
+    - eagle
+    - falcon
+    - flamingo
+    - goose
+    - gull
+    - heron
+    - hummingbird
+    - mallard
+    - ostrich
+    - owl
+    - penguin
+    - pelican
+    - puffin
+    - seabird
+- Flowers:
+    - carnation
+    - sunflower
+    - flower
+    - bouquet
+    - bridal bouquet
+- Potted Plants:
+    - bamboo
+    - eggplant
+    - flowerpot
+    - plant
+- Chairs:
+    - armchair
+    - beanbag
+    - bench
+    - bunk bed
+    - folding chair
+    - rocking chair
+    - wheelchair
+    - chair
+    - chaise longue
+    - sofa bed
+    - deck chair
+    - dining table
+    - folding chair
+    - footstool
+    - highchair
+    - loveseat
+    - music stool
+    - ottoman
+    - pew (church bench)
+    - stool

@@ -1,0 +1,8 @@
+1:person
+2:car
+3:dog
+4:cat
+5:bird
+6:vase
+7:potted plant
+8:chair

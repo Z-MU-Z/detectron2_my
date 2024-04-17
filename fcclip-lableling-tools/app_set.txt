@@ -1,0 +1,48 @@
+9:backpack
+10:handbag
+11:suitcase
+12:shopping bag
+13:cocoa (beverage)
+14:cup
+15:telephone
+16:umbrella
+17:food
+18:toy
+19:earphone
+20:pet
+21:bouquet
+22:cap (headwear)
+23:necklace
+24:glove
+25:bucket
+26:camera
+27:shoulder bag
+28:arctic (type of shoe)
+29:sandal (type of shoe)
+30:shoe
+31:hair dryer
+32:guitar
+33:ice skate
+34:spectacles
+35:timer
+36:watch
+37:motorcycle
+38:bicycle
+40:cell phone
+42:tie
+43:belt
+44:scarf
+45:helmet
+47:dress hat 
+48:bowler hat
+49:slipper (footwear)
+50:strap 
+52:mask
+53:armband
+54:visor
+55:trophy cup
+56:necktie
+58:ring
+59:cellular telephone
+60:book
+61:bottle
