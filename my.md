@@ -13,3 +13,10 @@ python create_instance_by_panseg.py --mask-dir  /home/zmz/code2/coconut_cvpr2024
 --image-dir /home/zmz/code2/coconut_cvpr2024/datasets/coco/train2017 \
 --panseg-info /home/zmz/code2/coconut_cvpr2024/coconut_dataset/annotations/annotations/coconut_s.json \
 --output coco_instances_train2017_coconut_s.json
+
+
+if self.binary_thres > 0:
+            keep = scores_per_image > self.binary_thres
+            scores_per_image = scores_per_image[keep]
+            labels_per_image = labels_per_image[keep]
+            mask_pred = mask_pred[keep]
