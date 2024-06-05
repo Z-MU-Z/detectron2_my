@@ -1,0 +1,1 @@
+from .h_mask2former_transformer_decoder import HMultiScaleMaskedTransformerDecoder
