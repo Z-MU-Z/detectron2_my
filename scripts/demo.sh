@@ -1,0 +1,1 @@
+python MFusion/demo/demo.py --config MFusion/configs/maskformer2_R50_bs16_fusionmask.yaml --input datasets/P3M-10k/validation/P3M-500-NP/original_image/*.jpg --output vis_mfusion --opts MODEL.WEIGHTS output/model_final.pth
